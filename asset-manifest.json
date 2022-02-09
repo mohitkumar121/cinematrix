@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cinematrix/static/css/main.4a69f4d7.chunk.css",
+    "main.js": "/cinematrix/static/js/main.ca56fd96.chunk.js",
+    "main.js.map": "/cinematrix/static/js/main.ca56fd96.chunk.js.map",
+    "runtime-main.js": "/cinematrix/static/js/runtime-main.93c4464a.js",
+    "runtime-main.js.map": "/cinematrix/static/js/runtime-main.93c4464a.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/cinematrix/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.b67423a7.chunk.js": "/cinematrix/static/js/2.b67423a7.chunk.js",
+    "static/js/2.b67423a7.chunk.js.map": "/cinematrix/static/js/2.b67423a7.chunk.js.map",
+    "index.html": "/cinematrix/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/cinematrix/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.4a69f4d7.chunk.css.map": "/cinematrix/static/css/main.4a69f4d7.chunk.css.map",
+    "static/js/2.b67423a7.chunk.js.LICENSE.txt": "/cinematrix/static/js/2.b67423a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93c4464a.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.b67423a7.chunk.js",
+    "static/css/main.4a69f4d7.chunk.css",
+    "static/js/main.ca56fd96.chunk.js"
+  ]
+}
